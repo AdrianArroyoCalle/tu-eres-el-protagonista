@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <string name="app_name">Tú eres el protagonista</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Visitar web del autor</string>
+    <string name="title_activity_inicio">Tú eres el protagonista</string>
+    <string name="titulo">Tú eres el protagonista</string>
+    <string name="informacion">¿Quién sabe más de ti? Pasa el móvil o tablet a tus amigos y hazlos que respondan una preguntas y luego contestálas tú. ¿Quién ganará?</string>
+    <string name="iniciar">¡Vamos!</string>
+    <string name="jugadores">¿Cuántos jugadores?</string>
+    <string name="jugadores_info">Selecciona el número de jugadores</string>
+    <string name="notify_title">Tú eres el protagonista</string>
+    <string name="notify_message">Tú eres el protagonista se está ejecutando</string>
+    <string name="exit">Salir del juego</string>
+    <string name="sin_tiempo">Oh, no. Has perdido todo el tiempo</string>
+
+    <string name="players_now">0 jugadores seleccionados</string>
+    <string name="players_changed">jugadores seleccionados</string>
+    
+        <string-array name="preguntas_array">
+        <item>¿Cuál es tu plato preferido?</item>
+        <item>¿Cuál es tu estilo musical preferido?</item>
+        <item>¿Cuál es tu película preferida?</item>
+        <item>¿Cuál es tu videojuego preferido?</item>
+        <item>¿De qué fruta me tomaría un zumo de fruta?</item>
+        <item>Si estuviera en una banda, ¿qué instrumento tocaría?</item>
+        <item>¿Qué me llevaría a una isla desierta?</item>
+        <item>¿Qué se me da mejor?</item>
+        <item>¿En qué animal me gustaría transformarme?</item>
+        <item>¿Qué querría tener en mi casa ideal?</item>
+    </string-array>
+    <string-array name="b1_array">
+        <item>Pizza</item>
+        <item>Pop</item>
+        <item>Forrest Gump</item>
+        <item>Mario Bros</item>
+        <item>Naranja</item>
+        <item>Guitarra</item>
+        <item>Amigos</item>
+        <item>Deportes</item>
+        <item>Jabalí</item>
+        <item>Jardín</item>
+    </string-array>
+    <string-array name="b2_array">
+        <item >Sushi</item>
+        <item>Rock</item>
+        <item>Star Wars</item>
+        <item>Zelda</item>
+        <item>Limón</item>
+        <item>Bajo</item>
+        <item>Nadie</item>
+        <item>Correr</item>
+        <item>Zorro</item>
+        <item>Garaje</item>
+    </string-array>
+    <string-array name="b3_array">
+        <item >Kebab</item>
+        <item>Clasica</item>
+        <item>Spiderman</item>
+        <item>FIFA</item>
+        <item>Melocotón</item>
+        <item>Batería</item>
+        <item>Ordenador</item>
+        <item>Matemáticas</item>
+        <item>León</item>
+        <item>Piscina</item>
+    </string-array>
+    <string-array name="b4_array">
+        <item>Pastel</item>
+        <item>DJ</item>
+        <item>El Resplandor</item>
+        <item>COD</item>
+        <item>Piña</item>
+        <item>Sintetizador</item>
+        <item>Balón</item>
+        <item>Hacer reír</item>
+        <item>Tortuga</item>
+        <item>Pádel</item>
+    </string-array>
+    <string name="quit">Salir</string>
+    <string name="restart">Reiniciar</string>
+    <string name="share">Compartir</string>
+    <string name="end">Has terminado Tú eres el protagonista. ¿Qué amigo tuyo te conoce más?</string>
+	<string name="question">Pregunta: </string>
+	<string name="friend">Amigo </string>
+	<string name="correct">La respuesta correcta es:</string>
+	<string name="results">Resultados de la pregunta</string>
+	<string name="says">dice:</string>
+    
+</resources>

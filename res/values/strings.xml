@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">Tú eres el protagonista</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Visit the website of the auhtor</string>
+    <string name="title_activity_inicio">Tú eres el protagonista</string>
+    <string name="titulo">Tú eres el protagonista</string>
+    <string name="informacion">Who knows more of you? Pass the phone or the tablet to your friends to answer some questions about you. Who will win?</string>
+    <string name="iniciar">Go!</string>
+    <string name="jugadores">How many players?</string>
+    <string name="jugadores_info">Select the number of players</string>
+    <string name="notify_title">Tú eres el protagonista</string>
+    <string name="notify_message">Tú eres el protagonista is executed</string>
+    <string name="exit">Exit game</string>
+    <string name="sin_tiempo">Oh, no. You have lost all the time.</string>
+    <string name="copyright">© Adrián Arroyo Calle 2012-2013</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_the_end">End</string>
+
+    <string name="players_now">0 players selected</string>
+    <string name="players_changed">players selected</string>
+    
+        <string-array name="preguntas_array">
+        <item>What is your favourite dish?</item>
+        <item>What is your favourite music style?</item>
+        <item>What is your favourite film?</item>
+        <item>What is your favourite videogame?</item>
+        <item>What fruit would take a fruit juice?</item>
+        <item>If I were in a band, what instrument I would play?</item>
+        <item>What do you take to a desert island?</item>
+        <item>What do I do best?</item>
+        <item>What animal would like to transform?</item>
+        <item>What would be my dream house?</item>
+    </string-array>
+    <string-array name="b1_array">
+        <item>Pizza</item>
+        <item>Pop</item>
+        <item>Forrest Gump</item>
+        <item>Mario Bros</item>
+        <item>Orange</item>
+        <item>Guitar</item>
+        <item>Friends</item>
+        <item>Sports</item>
+        <item>Wild pig</item>
+        <item>Garden</item>
+    </string-array>
+    <string-array name="b2_array">
+        <item >Sushi</item>
+        <item>Rock</item>
+        <item>Star Wars</item>
+        <item>Zelda</item>
+        <item>Lemon</item>
+        <item>Bass</item>
+        <item>Nobody</item>
+        <item>Run</item>
+        <item>Fox</item>
+        <item>Garage</item>
+    </string-array>
+    <string-array name="b3_array">
+        <item >Kebab</item>
+        <item>Classic</item>
+        <item>Spiderman</item>
+        <item>FIFA</item>
+        <item>Peach</item>
+        <item>Drums</item>
+        <item>Computer</item>
+        <item>Maths</item>
+        <item>Lion</item>
+        <item>Swimming pool</item>
+    </string-array>
+    <string-array name="b4_array">
+        <item>Cake</item>
+        <item>DJ</item>
+        <item>The Shining</item>
+        <item>COD</item>
+        <item>Pineapple</item>
+        <item>Synthesizer</item>
+        <item>Ball</item>
+        <item>Making people laugh</item>
+        <item>Tortoise</item>
+        <item>Paddle</item>
+    </string-array>
+    <string name="quit">Exit</string>
+    <string name="restart">Restart</string>
+    <string name="share">Share</string>
+    <string name="end">Thanks for playing Tú eres el protagonista. What friend know you best?</string>
+	<string name="question">Question: </string>
+	<string name="friend">Friend</string>
+	<string name="correct">The correct answer was:</string>
+	<string name="results">Results of the question</string>
+	<string name="says">says:</string>
+
+</resources>
